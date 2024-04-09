@@ -1,5 +1,5 @@
 ---
-title: smut
+title: DDM
 emoji: 🚀
 colorFrom: blue
 colorTo: green
